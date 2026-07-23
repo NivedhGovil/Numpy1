@@ -1,1 +1,1 @@
-# Numpy1
+Average temperature finder
